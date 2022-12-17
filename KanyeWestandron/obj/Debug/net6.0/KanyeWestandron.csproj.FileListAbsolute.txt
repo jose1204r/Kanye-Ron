@@ -1,0 +1,17 @@
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\bin\Debug\net6.0\KanyeWestandron.exe
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\bin\Debug\net6.0\KanyeWestandron.deps.json
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\bin\Debug\net6.0\KanyeWestandron.runtimeconfig.json
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\bin\Debug\net6.0\KanyeWestandron.dll
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\bin\Debug\net6.0\KanyeWestandron.pdb
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.csproj.AssemblyReference.cache
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.AssemblyInfoInputs.cache
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.AssemblyInfo.cs
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.csproj.CoreCompileInputs.cache
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.csproj.CopyComplete
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.dll
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\refint\KanyeWestandron.dll
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.pdb
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\KanyeWestandron.genruntimeconfig.cache
+C:\Users\jrodr\source\repos\KanyeWestandron\KanyeWestandron\obj\Debug\net6.0\ref\KanyeWestandron.dll
